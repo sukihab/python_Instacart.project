@@ -12,7 +12,7 @@ The dataset comprises of information on the following parameters:
 - departments
 - customers
 
-The full details of the data, please use this link: https://1drv.ms/u/s!AvAdTyExNQPqgq9qUtkSmRhr5QEV6Q?e=HHWn3T
+Access datasets [here](https://1drv.ms/u/s!AvAdTyExNQPqgq9qUtkSmRhr5QEV6Q?e=HHWn3T).
 
 ### Tools
 For this project the following python libraries have been used:
